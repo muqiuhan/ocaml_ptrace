@@ -1,0 +1,3 @@
+(test
+ (name ocaml_ptrace)
+ (libraries ptrace unix))

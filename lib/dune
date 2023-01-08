@@ -1,0 +1,3 @@
+(library
+ (name ptrace)
+ (foreign_stubs (language c) (names libptrace_stubs)))
