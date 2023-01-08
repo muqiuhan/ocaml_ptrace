@@ -18,8 +18,8 @@
 (package
  (name ocaml_ptrace)
  (allow_empty)
- (synopsis "OCaml ptrace function binding.")
- (description "OCaml ptrace function binding.")
+ (synopsis "OCaml ptrace function binding")
+ (description "OCaml ptrace function binding")
  (depends ocaml dune)
  (tags
   (ptrace binding)))
